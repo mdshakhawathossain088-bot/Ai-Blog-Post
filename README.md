@@ -1,4 +1,5 @@
-# Ai-Blog Decoding CP: An AI Algorithm Approach in Python
+# Ai-Blog
+Decoding CP: An AI Algorithm Approach in Python
 
 🔍 Overview
 
@@ -107,9 +108,8 @@ Beginner-friendly AI logic
 
 👨‍💻 Author
 
-Your Name
-Department / Batch / University
-(Replace this section with your details)
+Md.Shakhawat Hossain,
+Department: CSE / Batch: 54
 
 
 ---
