@@ -119,8 +119,6 @@ Department: CSE / Batch: 54
 
 ✅ (2) Python File (decode.py)
 
-GitHub-এ decode.py নামে এই কোড রাখবেন:
-
 def decode_cp(pattern):
     result = ""
     for ch in pattern:
